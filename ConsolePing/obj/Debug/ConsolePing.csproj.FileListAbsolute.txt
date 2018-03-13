@@ -1,0 +1,5 @@
+E:\00.WORK\01.SVILUPPO\OS400 Service\OS400Svc\ConsolePing\bin\Debug\ConsolePing.exe.config
+E:\00.WORK\01.SVILUPPO\OS400 Service\OS400Svc\ConsolePing\bin\Debug\ConsolePing.exe
+E:\00.WORK\01.SVILUPPO\OS400 Service\OS400Svc\ConsolePing\bin\Debug\ConsolePing.pdb
+E:\00.WORK\01.SVILUPPO\OS400 Service\OS400Svc\ConsolePing\obj\Debug\ConsolePing.exe
+E:\00.WORK\01.SVILUPPO\OS400 Service\OS400Svc\ConsolePing\obj\Debug\ConsolePing.pdb
